@@ -1,3 +1,2 @@
-- 👋 Hi, I’m @Ananny1
-- 👀 I’m interested in Cyber security
-- 🌱 I’m currently learning java and golang
+
+👋 Hi there! I'm @Ananny1. I have a strong passion for cybersecurity and am deeply committed to honing my skills in this dynamic field. Currently, I'm delving into the realms of Java and Golang, sharpening my programming expertise to contribute effectively to security solutions. As a student at Bahrain Polytechnic, I am constantly seeking opportunities to expand my knowledge and collaborate on innovative projects that enhance cybersecurity measures. Join me on this exciting journey as we navigate through the ever-evolving landscape of technology and security together!
